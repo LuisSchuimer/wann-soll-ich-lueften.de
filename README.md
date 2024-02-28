@@ -1,5 +1,5 @@
 # News
-## Updated 30.10.23
+## Updated 19.12.23
 
 ## Post 19.12.23:
 Reading time: about 5 minutes
